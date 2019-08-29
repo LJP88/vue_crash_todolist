@@ -23,7 +23,8 @@
 
 <style scoped>
   .todo-item {
-    background-color: #f4f4f4;
+    background-color: #faf5ef;
+    opacity: 0.7;
     padding: 10px;
     border-bottom: 1px #ccc dotted;
   }
